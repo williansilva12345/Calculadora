@@ -1,0 +1,58 @@
+body{
+	background:#8f84ec;
+}
+
+
+.main{
+	
+	
+	margin-left:34%;
+}
+
+input{
+	
+	border-radius:10px;
+	border:none;
+}
+
+ label {
+
+
+  font-family: "Roboto", serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing:0.5px;
+}
+
+
+button{
+	
+	border-radius:5px;
+	
+	background:#ddcefa;
+	border:none;
+	padding:2px;
+	
+}
+
+
+button{
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+	
+	.tit{
+		
+		text-align:center;
+	}
+	
+	
+.tit h1 {
+  font-family: "Sora", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
