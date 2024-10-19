@@ -6,8 +6,9 @@ body{
 .main{
 	
 	
-	margin-left:43%;
-	margin-top:11%;
+	position: absolute;
+    top: 37%;
+
 }
 
 input{
